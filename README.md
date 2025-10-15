@@ -4,4 +4,4 @@ Cada campo llama a una función de concatenacion según las necesidades del data
 
 ## Función concatenar_valores_unicos
 Esta funcion usa
-'´.dropna()´'
+´´´´.dropna()´´´´
